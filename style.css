@@ -1,0 +1,36 @@
+h1{
+	text-align: center;
+	color: white;
+}
+body{
+	background-color:	#ffedba;
+}
+.container {
+            background-color: 	#937249;
+            padding: 50px;
+            border-radius: 25px;
+            margin-top: 10%;
+            width: 80%;
+            font-size: 20px;
+            font-weight: bold;
+}
+button{
+	text-align: center;
+	color: white;
+
+}
+label{
+	color: white;
+	text-align: center;
+}
+
+form{
+	text-align: center;
+}
+h6{
+	color: white;
+}
+p{
+	text-align: center;
+	color: white;
+}
